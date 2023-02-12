@@ -1,0 +1,8 @@
+author: Per Austrin
+source: KTH Challenge 2014
+rights_owner: KTH
+license: cc by-sa
+validation: custom
+
+limits:
+  time_safety_margin: 5
